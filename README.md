@@ -40,3 +40,19 @@ The model performance is evaluated using:
 - Accuracy
 - Precision
 - Recall
+
+---
+
+## 📚 Key Learnings
+- Data preprocessing and handling missing values  
+- Feature selection and model building  
+- Model evaluation using multiple performance metrics  
+- Understanding the end-to-end machine learning project workflow  
+
+---
+
+## 🔮 Future Enhancements
+- Hyperparameter tuning to improve model performance  
+- Deployment of the model using Flask or FastAPI  
+- Development of a web-based interface for user input  
+- Integration with real-time or live datasets 
